@@ -82,7 +82,7 @@ AudioSaparatorApp_forMac/
 ## 최종 산출물 안내 (Artifacts)
 연산이 성공적으로 완료되면, 하드웨어 가속 행렬 연산을 거쳐 프로젝트 최상위 루트 폴더에 스튜디오 규격의 32-bit Float 스테레오 .wav 파일 2개가 생성됩니다.
 
-[vocal_output.wav 🎤](https://raw.githubusercontent.com/MinGyu-Cha/AudioSaparatorApp_forMac/main/vocal_output.wav): 원곡에서 악기 소리가 지워지고, 가수의 목소리/숨소리만 추출된 보컬 음원 파일입니다.
+[vocal_output.wav 🎤](https://raw.githubusercontent.com/MinGyu-Cha/AudioSeparatorApp_forMac/main/vocal_output.wav): 원곡에서 악기 소리가 지워지고, 가수의 목소리/숨소리만 추출된 보컬 음원 파일입니다.
 
 🎸 accompaniment_output.wav: 원곡에서 가수의 목소리 주파수만 지워지고, 드럼/베이스/기타 등 세션 연산만 남은 MR(반주) 파일입니다.
 
